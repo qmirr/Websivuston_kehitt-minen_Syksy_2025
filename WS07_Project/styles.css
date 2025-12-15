@@ -39,3 +39,11 @@ img.responsive {
   height: auto;
   border-radius: 10px;
 }
+.transformation-text {
+  font-size: 1.5rem !important;
+  line-height: 1.8;
+  color: #171718;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
